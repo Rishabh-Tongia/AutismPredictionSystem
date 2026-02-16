@@ -12,6 +12,14 @@ The system demonstrates practical implementation of model training, evaluation, 
 
 ---
 
+## 🌐 Live Application
+
+🔗 **Live Demo:** https://autism-prediction-system.streamlit.app/
+
+The deployed application allows users to input behavioral screening data, obtain real-time predictions, and view explainable AI insights for model decisions.
+
+---
+
 ## 🎯 Objectives
 
 * Build a predictive machine learning system using behavioral data
@@ -139,7 +147,7 @@ An interactive web interface was developed to allow:
 
 ## 🌐 Deployment
 
-The system can be deployed as a web application using cloud platforms supporting Python-based applications. The deployed application provides public access to prediction and explanation features.
+The system is deployed as a web application and publicly accessible via the live demo link. The deployment provides real-time prediction and explainable AI features through an interactive interface.
 
 ---
 
